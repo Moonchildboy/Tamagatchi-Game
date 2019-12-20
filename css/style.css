@@ -1,10 +1,22 @@
 body {
-	background-color: cyan; 
+	background-image: url(https://images.unsplash.com/photo-1532009877282-3340270e0529?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80); 
 }
 
 .vitals {
-
+	color: white;
+	font-size: 24px;
+	/*ch*/
 }
 
+#image1 {
+	width:300px;
+	height: 300px
+}
+
+
+
+/*contains all images and*/
+
 #light {
+	/*background-color: rgba()*/
 }
