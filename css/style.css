@@ -1,6 +1,11 @@
 body {
 	background-image: url(https://images.unsplash.com/photo-1532009877282-3340270e0529?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80); 
 }
+header {
+	color: white;
+	text-align: right;
+	font-size: 24px;
+}
 
 .vitals {
 	color: white;
@@ -12,7 +17,9 @@ body {
 	width:300px;
 	height: 300px
 }
+#image2 {
 
+}
 
 
 /*contains all images and*/
